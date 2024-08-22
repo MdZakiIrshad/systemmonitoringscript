@@ -3,7 +3,7 @@ This Bash script provides a real-time monitoring dashboard for various system re
 
 Function to display top 10 CPU and Memory consuming applications
 show_top_applications() 
-Function to monitor network
+#Function to monitor network
 show_network_monitoring() 
 Function to display disk usage
 show_disk_usage()
