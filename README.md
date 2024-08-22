@@ -1,7 +1,7 @@
 # systemmonitoringscript
 This Bash script provides a real-time monitoring dashboard for various system resources. It offers insights into CPU and memory usage, network activity, disk usage, system load, and more. The script refreshes every few seconds, presenting the data in an easy-to-read dashboard format.
 
-Function to display top 10 CPU and Memory consuming applications
+**Function to display top 10 CPU and Memory consuming applications**
 show_top_applications() 
 #Function to monitor network
 show_network_monitoring() 
